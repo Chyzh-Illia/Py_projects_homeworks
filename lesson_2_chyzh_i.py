@@ -1,1 +1,0 @@
-print("hellow its my first lesson for git")
