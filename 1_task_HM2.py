@@ -1,4 +1,4 @@
 Eleks = ["Andrey", "Illia", "Tatiana", "James"]
 Toshiba = ["Illia", "James", "Michel", "Jacob"]
-Toshiba.extend(Eleks)
+Toshiba.append(Eleks)
 print(Toshiba)
